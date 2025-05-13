@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Deiry
 
-<!--
-**deiry/deiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning Engineer** focused on backend systems, data engineering, and AI. I enjoy designing modular architectures and building efficient, insight-driven tools using Python and modern ML frameworks.
 
-Here are some ideas to get you started:
+- 🧠 I work with LLMs, Retrieval-Augmented Generation, and evaluation frameworks.
+- 📊 I’ve led dashboard and performance projects across multiple LATAM markets.
+- 🛠 I value clean architecture, reproducible workflows, and impact-driven ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 Tech Stack
+
+**Languages**: Python, SQL, PySpark  
+**Machine Learning**: Scikit-Learn, Spark ML, Pandas, NumPy  
+**LLM & RAG**: LangChain, Semantic Kernel, Ollama, OpenAI, Hugging Face, Sentence Transformers, ChromaDB, DeepEval, Pinecone  
+**Data Engineering**: Databricks, Azure Data Factory, Power BI, Plotly  
+**MLOps & Infra**: Azure AI Studio, Azure DevOps, Docker, Databricks  
+**Dashboards**: Power BI, Plotly, Streamlit  
+**Web & API**: FastAPI  
+**Architecture & Design**: Clean Architecture, C4 Diagrams, Lucidchart, Draw.io
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiry-sofia/)
+
